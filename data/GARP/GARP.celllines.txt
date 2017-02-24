@@ -1,0 +1,85 @@
+"Supplemental Table 2:  Cell lines, growth conditions and other info."													
+													
+Tumor type	ATCC 	Cell line	Tissue	Morphology	Disease	Subtype	Sex	Patient Age when tumor excised	Derived from	Growth media	Where obtained	Authentication method	Date of authentication
+Breast	HTB-19	BT-20	Breast	Epithelial	adenocarcinoma	Basal A	Female	74	tumor	RPMI+10% FBS	In house	ND	
+Breast	HTB-20	BT-474	Breast	Epithelial	invasive ductal carcinoma	HER2	Female	60	tumor	DMEM+10%FBS	ATCC	STR	<6 months
+Breast	HTB-122	BT-549	Breast	Epithelial	invasive ductal carcinoma	Basal B	Female	72	tumor	RPMI+10% FBS	In house	ND	
+Breast	ACC 302 (DSMZ)	Cal51	Breast	Epithelial	adenocarcinoma	Basal B	Female	45	pleural effusion	DMEM+10%FBS	In house	ND	
+Breast	HTB-21	CAMA-1	Breast	Epithelial	adenocarcinoma	Luminal	Female	51	pleural effusion	DMEM+10%FBS	In house	ND	
+Breast	ACC 231 (DSMZ)	EFM-19	Breast	Epithelial	invasive ductal carcinoma	Luminal	Female	50	pleural effusion	RPMI+10% FBS	In house	ND	
+Breast	CRL-2321	HCC1143	Breast	Epithelial	ductal carcinoma	Basal A	Female	52	tumor	RPMI+10% FBS	ATCC	STR	<6 months
+Breast	CRL-2322	HCC1187	Breast	Epithelial	ductal carcinoma	Basal A	Female	41		RPMI+10% FBS	ATCC	STR	<6 months
+Breast	CRL-2324	HCC1395	Breast	Epithelial	ductal carcinoma	Basal B	Female	43		RPMI+10% FBS	ATCC	STR	<6 months
+Breast	CRL-2326	HCC1419	Breast	Epithelial	ductal carcinoma	Her2	Female	42		RPMI+10% FBS	ATCC	STR	<6 months
+Breast	CRL-2327	HCC1428	Breast	Epithelial	adenocarcinoma	Luminal	Female	49	metastasis	RPMI+10% FBS	ATCC	STR	<6 months
+Breast	CRL-2329	HCC1500	Breast	Epithelial	ductal carcinoma	Luminal	Female	32		RPMI+10% FBS	ATCC	STR	<6 months
+Breast	CRL-2335	HCC1806	Breast	Epithelial	squamous carcinoma	Basal A	Female	60		RPMI+10% FBS	In house	ND	
+Breast	CRL-2336	HCC1937	Breast	Epithelial	ductal carcinoma	Basal A	Female	24	tumor	RPMI+10% FBS	In house	ND	
+Breast	CRL-2338	HCC1954	Breast	Epithelial	ductal carcinoma	HER2/Basal	Female	61	tumor	RPMI+10% FBS	ATCC	STR	<6 months
+Breast	CRL-2314	HCC38	Breast	Epithelial	ductal carcinoma	Basal B	Female	50		RPMI+10% FBS	ATCC	STR	<6 months
+Breast	HTB-126	Hs 578T	Breast	Epithelial	squamous carcinoma	Basal B	Female	74	tumor	DMEM+10%FBS	ATCC	STR	<6 months
+Breast	ACC 317 (DSMZ)	KPL-1	Breast	Epithelial	ductal carcinoma	Luminal	Female	50	pleural effusion	DMEM+10%FBS	In house	ND	
+Breast	HTB-22	MCF7	Breast	Epithelial	metastatic adenocarcinoma	Luminal	Female	69	pleural effusion	DMEM+10%FBS	In house	ND	
+Breast	HTB-24	MDA-MB-157	Breast	Epithelial	medullary carcinoma	Basal B	Female	44	pleural effusion	DMEM+10%FBS	In house	ND	
+Breast	HTB-26	MDA-MB-231	Breast	Epithelial	metastatic adenocarcinoma	Basal B	Female	51	pleural effusion	DMEM+10%FBS	In house	ND	
+Breast	HTB-27	MDA-MB-361	Breast	Epithelial	metastatic adenocarcinoma	HER2	Female	40	brain metastasis	DMEM+10%FBS	In house	ND	
+Breast	HTB-130	MDA-MB-436	Breast	Epithelial	adenocarcinoma	Basal B	Female	43	pleural effusion	DMEM+10%FBS	In house	ND	
+Breast	HTB-131	MDA-MB-453	Breast	Epithelial-like	metastatic carcinoma	HER2	Female	48	pleural effusion	DMEM+10%FBS	In house	ND	
+Breast	HTB-132	MDA-MB-468	Breast	Epithelial	metastatic adenocarcinoma	Basal A	Female	51	pleural effusion	DMEM+10%FBS	In house	ND	
+Breast	HTB-30	SK-BR-3	Breast	Epithelial	adenocarcinoma	HER2	Female	43	pleural effusion	DMEM+10%FBS	ATCC	STR	<6 months
+Breast	CRL-7940	SW527	Breast	Epithelial		Basal B	Female	70		DMEM+10%FBS	In house	ND	
+Breast	HTB-133	T-47D	Breast	Epithelial	invasive ductal carcinoma	Luminal	Female	54	pleural effusion	RPMI+10% FBS	In house	ND	
+Breast	CRL-1500	ZR-75-1	Breast	Epithelial	invasive ductal carcinoma	Luminal	Female	63	ascites	RPMI+10% FBS	In house	ND	
+Ovarian		OVCA432_Bast	Ovary	Epithelial	carcinoma	Serous	Female	Unknown	ovarian biopsy	RPMI 1640 + 10 mM HEPES+10% FBS	Texas M.D. Anderson Cancer Center Dr Robert Bast	STR	<6 months
+Ovarian		60905OM	Ovary	Epithelial	carcinoma	Serous	Female		omentum	DMEM/F12+10% FBS	Toronto MaRS Centre TMDT Dr Neel laboratory	STR	<6 months
+Ovarian		A2780	Ovary	Epithelial	carcinoma	Serous	Female	Unknown	tumor tissue	RPMI 1640 + 10 mM HEPES+10% FBS	Toronto MaRS Centre TMDT Dr Fletcher	STR	<6 months
+Ovarian		A2780_CIS	Ovary	Epithelial	carcinoma	Serous	Female	Unknown	tumor tissue	RPMI 1640 + 10 mM HEPES+10% FBS. Treated with 1uM of Cis-platinum every 3 passages	Toronto MaRS Centre TMDT Dr Fletcher	STR	<6 months
+Ovarian		OV-1946	Ovary	Epithelial	cystadenocarcinoma	Serous	Female	75	ascites	OSE+10% FBS	Montréal CHUM Dr Mes-Masson laboratory	STR	<6 months
+Ovarian	CRL-11732	OV-90	Ovary	Epithelial	adenocarcinoma	Serous	Female	64	ascites	OSE+10% FBS+G418 (400 ug/ml)	Montréal McGill University Dr Tonin	STR	<6 months
+Ovarian		TOV-1369 TR	Ovary	Epithelial	Cystadenocarinoma	Serous	Female	58	fallopian tube	OSE+10% FBS	Montréal CHUM Dr Mes-Masson laboratory	STR	<6 months
+Ovarian		OVCA433_Bast	Ovary	Epithelial	cystadenocarcinoma	Serous	Female	Unknown	ovarian biopsy	RPMI 1640 + 10 mM HEPES+10% FBS	Texas M.D. Anderson Cancer Center Dr Robert Bast	STR	<6 months
+Ovarian	HTB-161	OVCAR3	Ovary	Epithelial	adenocarcinoma	Serous	Female	60	ascites	RPMI 1640 + 10 mM HEPES+10% FBS	ATCC	STR	<6 months
+Ovarian		OVCAR5	Ovary	Epithelial	adenocarcinoma	Serous	Female	67	unknown	RPMI 1640 + 10 mM HEPES+10% FBS	Texas M.D. Anderson Cancer Center Gordon Mills	STR	<6 months
+Ovarian		OVCAR8	Ovary	Epithelial	carcinoma	Serous	Female	64	unknown	RPMI 1640 + 10 mM HEPES+10% FBS	Texas M.D. Anderson Cancer Center Gordon Mills	STR	<6 months
+Ovarian	HTB-77	SK-OV-3	Ovary	Epithelial	adenocarcinoma	Serous	Female	64	ascites	RPMI 1640 + 10 mM HEPES+10% FBS	ATCC	STR	<6 months
+Ovarian		TOV-1946	Ovary	Epithelial	cystadenocarcinoma	Serous	Female	75	ovary	OSE+10% FBS	Montréal CHUM Dr Mes-Masson laboratory	STR	<6 months
+Ovarian		TOV-2223G	Ovary	Epithelial	cystadenocarcinoma	Serous	Female	89	ovary	OSE+10% FBS	Montréal CHUM Dr Mes-Masson laboratory	STR	<6 months
+Ovarian		TOV-3133G	Ovary	Epithelial	Cystadenocarinoma	Serous	Female	52	ovary	OSE+10% FBS	Montréal CHUM Dr Mes-Masson laboratory	STR	<6 months
+Pancreatic	CRL-1682	AsPC-1	Pancreas		adenocarcinoma		Female	62	Met (ascites)	RPMI 1640 (high glucose+pyruvate)+10% FBS	ATCC	STR	23-Mar-11
+Pancreatic	CRL-1687 	BxPC-3 	Pancreas	Epithelial	adenocarcinoma		Female	61	"Primary, CFTR (-)"	RPMI 1640 (high glucose+pyruvate)+10% FBS	ATCC	STR	23-Mar-11
+Pancreatic	HTB-80 	Capan-2 	Pancreas				Female	56	Primary	McCoy's 5a medium+10% FBS	ATCC	STR	23-Mar-11
+Pancreatic	CRL-1918 	CFPAC-1 	Pancreas	Epithelial	ductal adenocarcinoma; cystic fibrosis		Male	26	Met (liver) Patient had cystic fibrosis	Iscove's Modified Dulbecco's Medium+20% FBS	ATCC	STR	23-Mar-11
+Pancreatic	CRL-2119 	HPAC 	Pancreas	Epithelial	adenocarcinoma		Male	64	primary	DMEM+10% FBS	ATCC	STR	23-Mar-11
+Pancreatic	CRL-1997 	HPAF-II 	Pancreas	Epithelial	adenocarcinoma		Male	44	Met (ascites)	DMEM+10% FBS	ATCC	STR	23-Mar-11
+Pancreatic		HPDE	Pancreas							Keratinocyte Serum-Free (KSF)	"Ming Tsao, Toronto, Canada"	STR	23-Mar-11
+Pancreatic	HTB-134 	Hs 766T 	Pancreas	Epithelial	carcinoma		Male	46	Met (lymph node)	DMEM+10% FBS	ATCC	ND	
+Pancreatic		IMIM-PC-1	Pancreas						Primary	DMEM+10% FBS	"Real Franciscio, Madrid, Spain"	STR	23-Mar-11
+Pancreatic		IMIM-PC-2	Pancreas						Primary	DMEM+10% FBS	"Real Franciscio, Madrid, Spain"	STR	23-Mar-11
+Pancreatic		KP-3 (JCRB0178.0 )	Pancreas	Epithelial-like	adenosquamous carcinoma 				Met (liver)	RPMI 1640+10% FBS	JHSF	STR*	23-Mar-11
+Pancreatic		KP-4 (JCRB0182)	Pancreas	Epithelial-like	pancreatic ductal cell carcinoma		Male	50	Met (ascites)	RPMI 1640+10% FBS	JHSF	STR	23-Mar-11
+Pancreatic	CRL-1420 	MIA PaCa-2 	Pancreas	Mix of epithelial and mesenchymal			Male	65	Primary	DMEM+10% FBS	ATCC	STR	23-Mar-11
+Pancreatic	CRL-2553 	Panc 02.03 	Pancreas	Epithelial	adenocarcinoma		Female	70	Primary	RPMI 1640 (high glucose+pyruvate)+15% FBS+10U/ml human insulin	ATCC	STR	23-Mar-11
+Pancreatic	CRL-2549 	Panc 03.27 	Pancreas	Epithelial	adenocarcinoma		Female	65	Primary	RPMI 1640 (high glucose+pyruvate)+15% FBS+10U/ml human insulin	ATCC	STR	23-Mar-11
+Pancreatic	CRL-2555 	Panc 04.03 	Pancreas	Epithelial	adenocarcinoma		Male	70	Primary	RPMI 1640 (high glucose+pyruvate)+15% FBS+10U/ml human insulin	ATCC	STR	23-Mar-11
+Pancreatic	CRL-2557 	Panc 05.04 	Pancreas	Epithelial	adenocarcinoma		Female	1	Primary	RPMI 1640 (high glucose+pyruvate)+15% FBS+10U/ml human insulin	ATCC	STR	23-Mar-11
+Pancreatic	CRL-2551 	Panc 08.13 	Pancreas	Epithelial	adenocarcinoma		Male	85	Primary	RPMI 1640 (high glucose+pyruvate)+15% FBS+10U/ml human insulin	ATCC	STR*	23-Mar-11
+Pancreatic	CRL-2547 	Panc 10.05 	Pancreas	Epithelial	adenocarcinoma		Male	Unknown	primary (same patient as PL45)	RPMI 1640 (high glucose+pyruvate)+15% FBS+10U/ml human insulin	ATCC	STR	23-Mar-11
+Pancreatic	CRL-1469 	PANC-1 	Pancreas	Epithelial	epithelioid carcinoma				Primary	DMEM+10% FBS	ATCC	STR	23-Mar-11
+Pancreatic		PATU8988S	Pancreas						Met (liver)	DMEM+10% FBS	"Real Franciscio, Madrid, Spain"	STR	23-Mar-11
+Pancreatic		PATU8988T	Pancreas						Met (liver)	DMEM+10% FBS	"Real Franciscio, Madrid, Spain"	STR	23-Mar-11
+Pancreatic	CRL-2558 	PL45 	Pancreas	Epithelial	ductal adenocarcinoma		Male	Unknown	Primary (same patient as Panc 10.05)	DMEM+10% FBS	ATCC	STR	23-Mar-11
+Pancreatic		RWP1	Pancreas	primary duct cell	adenocarcinoma				Met (liver)	DMEM+10% FBS	"Real Franciscio, Madrid, Spain"	STR	23-Mar-11
+Pancreatic		SK-PC-1	Pancreas						primary tumor	DMEM+10% FBS	"Real Franciscio, Madrid, Spain"	STR	23-Mar-11
+Pancreatic		SK-PC-3	Pancreas							DMEM+10% FBS	"Real Franciscio, Madrid, Spain"	STR	23-Mar-11
+Pancreatic	CRL-1837 	SU.86.86 	Pancreas				Female	57	Met (liver)	RPMI 1640+10% FBS	ATCC	STR	23-Mar-11
+Pancreatic	CRL-2172 	SW 1990 	Pancreas						Met (spleen)	Iscove's Modified Dulbecco's Medium+20% FBS	ATCC	STR	23-Mar-11
+* Note:  STR profiles match known profiles at all but 1 satellite													
+													
+List of Abbreviations													
+DMEM	Dulbecco's modified eagle medium												
+FBS	Fetal bovine serum												
+HEPES	4-(2-hydroxyethyl)-1-piperazineethanesulfonic acid 												
+Met	Metastasis/metastases												
+ND	Not determined												
+OSE	Ovarian surface epithelium												
+STR	Short tandem repeat profiling												

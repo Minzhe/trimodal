@@ -1,0 +1,338 @@
+Array Name	GEO array names	ER  (1=positive; 0=negative)	PGR  (1=positive; 0=negative)	HER2 clinical status IHC/FISH (1=positive; 0=negative)	Node status (1=positive=1 or more nodes+; 0=negative)	Grade	Size (1= <=2cm; 2= >2cm to <=5cm; 3=>5cm; 4=any size with direct extension to chest wall or skin)	"RFS event (0=no relapse, 1=relapsed at any site or died of disease)"	RFS months	"Overall Survival Event (0=alive, 1=DOD or DOC)"	Overall suvival months	"Prat et al., Submitted (2009) v2 UNC337"	Claudin-low Classification (9Cell Line Predictor) from Prat et al. Submitted 2009 UNC337	PAM50 calls UNC337	Target Source 2 (Cy5)	Target source 1 (Cy3)
+H1A6433-3009_V2	UB28	0			0	3	1	0	30	0	30	GSE18229	Basal	Basal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-0763-C-Na	UNC-010318B	1	1	0	0	2	1	0	42	0	42	GSE18229	Basal	Basal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1090-C-Na	UNC-030408B-core	0	0	0	0	3	2	1	10	0	25	GSE18229	Basal	Basal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1321-C	UNC-020578B	0	0	1	0	3	4	1	3	1	5	GSE18229	Basal	Basal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1097-Na	UNC-010532B-core	0	0	0	1	3	3	1	7	1	14	GSE18229	Basal	Basal	"Tissue: Breast Tumor, Subtype: BaTissue: Breast Tumor, Sal"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6357_3552	BC00064-RECUR	0	0	1		3	1	1	10	1	47	GSE18229	Basal	Basal	Breast Tumor recurrence	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A7871-2313V2	PB341-LN-Met											GSE18229	Basal	Basal	"Breast Tumor, with paired metastasis sample"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A7411-0084-C	PB184	1	0	1	0	3	1	0	29	0	29	GSE18229	Basal	Basal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A_C_0077	BC00024T	0	0	0	1	3	3	1	3	1	3	GSE18229	Basal	Basal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A4110_3580	BC00082T	0	0	0	0	3	2	0	27	1	27	GSE18229	Basal	Basal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6261-2597V2_Na	PB120-LN-Met	0			1	3	2	1	1	1	13	GSE18229	Basal	Basal	Breast Tumor lymph node metastasis	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6261-2598V2_Na	PB152-LN-MET	0			1		4	1	31	1	74	GSE18229	Basal	Basal	Breast Tumor lymph node metastasis	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6433-2608V2_Na	PB334	0	0	0	0	3	1	0	19	0	19	GSE18229	Basal	Basal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6433-3010_V2	UB29	0	0	0	0	3	2	0	25	0	25	GSE18229	Basal	Basal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A7411-0111-C	UB71	0	0	0	0	3	1	0	7	0	7	GSE18229	Basal	Basal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A9529-0061C	PB297	0	0	0	0	3	2	0	18	0	18	GSE18229	Basal	Basal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1121C	00-0161B-Genomic-Core											GSE18229	Basal	Basal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1122C	010235B-Genomic-Core	0			0	3	1	0	49	0	49	GSE18229	Basal	Basal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1317-C	UNC-020242B	0			0	3	1	0	31	0	31	GSE18229	Basal	Basal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+A44K10829-1282	9830-030619B	1	1	0	1	1	2	0	21	0	21	GSE18229	Basal	Basal	total RNA	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A014Na_C	BR98-0261	0	0	0	0	3	2	0	65	0	65	GSE18229	Basal	Basal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6261-1490V2	BR97-0137-VIM-Int		0	0								GSE18229	Basal	Basal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6433-2599V2	BR00-0572-VIM	0	0	1	1	3	3	1	11	0	42	GSE18229	Basal	Basal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A9529-0094C	A1-17-Left-Primary-VIM	0		0	1	3	4	1	2	1	2	GSE18229	Basal	Basal	Autopsy patient #1 breast primary tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1005-C	9830-010118B	0	0	0	1	3	3	0	41	0	41	GSE18229	Basal	Basal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1006-C	9830-010130B	0	0	0	0	3	2	0	44	0	44	GSE18229	Basal	Basal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1007-C	9830-010214B	0	0	0	0	3	1	0	37	0	37	GSE18229	Basal	Basal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1008-C	9830-020039B	1	1	0	0	3	2	0	32	0	32	GSE18229	Basal	Basal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1322-C	UNC-020510B..	0	0	0	0	3	2	0	34	0	34	GSE18229	Basal	Basal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A_C_0081	BC00049T	0	0	0	1	3	2	1	48	0	72	GSE18229	Basal	Basal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A4110_3579	BC00078T	0	0	0	1	3	3	0	12	1	12	GSE18229	Basal	Basal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6730-745	UB67-Repeat1		0	0								GSE18229	Basal	Basal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A7411-0085-C	PB267	0	0	0	1	3	2	0	20	0	20	GSE18229	Basal	Basal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A7871-2422V2	PB267_Repeat1		0	0								GSE18229	Basal	Basal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A9529-0054C	HCI02-235	0		0	0	3	2					GSE18229	Basal	Basal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+HIA-7601-V2-1004	BR-03-7032				0	3	1					GSE18229	Basal	Basal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A_C_0078	BC00029T	0	0	0	1	3		0	62	0	62	GSE18229	Basal	Basal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A_C_0080	BC00043T	0	0	0	0	3	2	0	76	0	76	GSE18229	Basal	Basal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A0120Na_C	BC00043		0	0								GSE18229	Basal	Basal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A4110_3582	BC00094T	0		0	0	3	2					GSE18229	Basal	Basal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A4594V2	A7-LN-Met		0	0								GSE18229	Basal	Basal	Autopsy patient #7 Lymph Node metastasis from breast	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A5365-899	982085-BC-Brain-Met	0						1	1	1	51	GSE18229	Basal	Basal	Breast tumor metastasis to brain	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6260-732	BC00085	0	0	0	0	2	1	0	19	0	19	GSE18229	Basal	Basal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6261-0922V2	PB126-LN-Met											GSE18229	Basal	Basal	"Breast Tumor lymph node metastasis, with paired primary tumor"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6261-0924V2	PB138	0	0	0	0	2	2	0	30	0	30	GSE18229	Basal	Basal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6261-0925V2	PB138-Int		0	0								GSE18229	Basal	Basal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6261-1489V2	BR97-0137-VIM	0	0	0	1	3	3	1	20	1	21	GSE18229	Basal	Basal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6261-1489V2_Na	A1-01-Right-Lung-VIM			0								GSE18229	Basal	Basal	Autopsy patient #1 lung metastasis from breast	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6261-2087V2	BC00086	0		0	1	3	2	0	9	0	9	GSE18229	Basal	Basal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6261-2140V2	PB419	0	0	0	0	3	2	0	10	0	10	GSE18229	Basal	Basal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6261-2141V2	PB419-Int		0	0								GSE18229	Basal	Basal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6433-2610V2	BC00070-Int		0	0								GSE18229	Basal	Basal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6433-2761_V2	PB126	0			1	3	4	1	1	1	16	GSE18229	Basal	Basal	"Breast Tumor, with paired metastasis sample"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6433-2810_V2	PB412	0		0	0	3	2					GSE18229	Basal	Basal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6433-2811_V2	PB412-Int			0								GSE18229	Basal	Basal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6433-2989V2	BR00-0572-VIM-Int		0	1								GSE18229	Basal	Basal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6912-6955V2	A5-Skin-Left-Met		0	0								GSE18229	Basal	Basal	Autopsy patient #5 skin metastasis from breast foci B	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6989-8214-V2	PB377	1	0	0	0	3	2	0	18	0	18	GSE18229	Basal	Basal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A7411-0112-C	PB297-Int		0	0								GSE18229	Basal	Basal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A7871-2407V2	A7-Brain-Met-v2	0	0	0	1	3	2	1	15	1	25	GSE18229	Basal	Basal	Autopsy patient #7 Brain metastasis from breast	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A9529-0050C	BR98-0261-Repeat1		0	0								GSE18229	Basal	Basal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A9529-0088Na_C	PB196-C-LN-Met											GSE18229	Basal	Basal	"Breast Tumor lymph node metastasis, with paired primary tumor"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A9529-0089Na_C	PB196-C											GSE18229	Basal	Basal	"Breast Tumor, with paired metastasis sample"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A9529-0096C	BC00070	0	0	0	0	2	2	1	22	1	25	GSE18229	Basal	Basal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A9529-039C	BC00041	0	0	0	0	3	2	1	13	1	29	GSE18229	Basal	Basal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A-V2-2411NA	BR-02-7055	0	0	0	1	3	2					GSE18229	Basal	Basal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+HIA-7871-V2-2252	BR-02-7035	0	0	0	0	3	2					GSE18229	Basal	Basal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC44K-H1-0467-TN36	MDACC-TN36	0	0	0	0	3	1	0	9	0	9	GSE18229	Basal	Basal	Metaplastic Carcinoma from MDACC	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC44K-H1-0468-TN6	MDACC-TN6	0	0	0	0	3	2	0	9	0	9	GSE18229	Basal	Basal	Metaplastic Carcinoma from MDACC	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC44K-H1-0468-TN77	MDACC-TN77	0	0	0	0		3	0	11	0	11	GSE18229	Basal	Basal	Metaplastic Carcinoma from MDACC	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC44K-H1-0572-Meta6	MDACC-Meta6	0	0	0	2	3	4	1	16	1	19	GSE18229	Basal	Basal	Metaplastic Carcinoma from MDACC	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6912-6853V2	A5-Skin#1-Right-Met	0	0	0	1	3	4	1	26	1	26	GSE18229	Basal	Basal	Autopsy patient #5 skin metastasis from breast foci A	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1245-C	UNC-040211B	1			0	1	2	0	18	0	18	GSE18229	Basal	Basal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A7871-2312V2	PB341				1		1	0	18	0	18	GSE18229	Claudin	Normal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A7871-2315V2	PB342				1		1	0	23	0	23	GSE18229	Claudin	LumB	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1018-C	9830-020018B	0	0	0	0	3	2	0	31	0	31	GSE18229	Claudin	Basal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1232-C	UNC-030528B	0	0	0	0	3		0	67	0	67	GSE18229	Claudin	Normal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6433-2808_V2	PB232	0			0		1	0	25	0	25	GSE18229	Claudin	Normal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6546-126	BC00083	0		0	1	3	2	1	33	0	36	GSE18229	Claudin	Her2	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A7871-2424V2	BC00075_Repeat1	0		0	1	2	3	1	11	1	11	GSE18229	Claudin	Normal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A9529_0029_C	PB244T	0		1	0	3	1	0	24	0	24	GSE18229	Claudin	Basal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A9529-0001Na_C	PB155-LN-Met	0			1	3	2	0	5	0	5	GSE18229	Claudin	Her2	Breast Tumor lymph node metastasis	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A9529-030C	BC00037	0		1	1	3						GSE18229	Claudin	Normal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-0936-C	9830-030597B	0	0	1	0	3	2	0	9	0	9	GSE18229	Claudin	Normal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-0942-C	BC00054	0	0	1	0	2	1.5		83	1	83	GSE18229	Claudin	Normal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1017-C	9830-010384B	0	0	0	1	3	2	0	32	0	32	GSE18229	Claudin	Basal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1156-C-Na	UNC-000279B	0	1	0	0	3	1	0	41	0	41	GSE18229	Claudin	Normal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1234-C	UNC-040011B	1	1	0	0	3	2	1	19	1	19	GSE18229	Claudin	Normal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1239-C	UNC-030065B	0	0	0	0	3	4	1	25	1	28	GSE18229	Claudin	Normal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1240-C	UNC-030183B	1	1		1	3	2	1	74	1	88	GSE18229	Claudin	Normal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1241-C	UNC-030370B	1	1	0	1	1	4	0	30	0	30	GSE18229	Claudin	Normal	"Tissue: Breast Tumor, Subtype: Claudin"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC1174C	UB-94				0	2	1	0	22	0	22	GSE18229	Claudin	Basal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC44K-H1-0461-Meta7	MDACC-Meta7	0	0	0	0	3	2	1	18	1	18	GSE18229	Claudin	Basal	Metaplastic Carcinoma from MDACC	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC44K-H1-0462-Meta8	MDACC-Meta8	0	0	0	0		2	1	108	1	108	GSE18229	Claudin	Basal	Metaplastic Carcinoma from MDACC	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC44K-H1-0558	UNC04-0574B-44K	0	0	0	0	2	1	0	26	0	26	GSE18229	Claudin	Basal	total RNA	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC44K-H1-0572-Meta5	MDACC-Meta5	0	0	0	0	3	2	0	144	0	144	GSE18229	Claudin	Basal	Metaplastic Carcinoma from MDACC	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+A44K11240-2760	9830-030267B	0	0	0	0	3	2	0	31	0	31	GSE18229	Claudin	Normal	total RNA	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC44K-H1-0466-Meta16	MDACC-Meta16	0	0	0	0	3	4	1	10	1	14	GSE18229	Claudin	Normal	Metaplastic Carcinoma from MDACC	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC44K-H1-0559	UNC00-0552B-44K	1	1	1	1	3	4	0	22	0	22	GSE18229	Claudin	Normal	total RNA	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-0761-C-Na	UNC-010208B	0			0	3	2	0	51	0	51	GSE18229	Claudin	Basal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1128-Na	UNC-020157B-core											GSE18229	Claudin	Basal		
+H1A6433-2979_V2	PB515	0			1	3	3	0	2	0	2	GSE18229	Claudin	Basal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6433-2610V2_Na	PB205	0	0	0	1	2	4	0	5	0	5	GSE18229	Claudin	Basal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A9529-0044Na_C	UB67	0	0	0	1	3	1	0	16	0	16	GSE18229	Claudin	Basal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1242-C	UNC-030459B-BRCA1	0			0	3	3	1	28	0	37	GSE18229	Claudin	Basal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC44K-H1-0463-Meta13	MDACC-Meta13	0	0	0	0	3	2	0	109	0	109	GSE18229	Claudin	Basal	Metaplastic Carcinoma from MDACC	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC44K-H1-0464-Meta14	MDACC-Meta14	0	0	0	1	3	4	1	1	1	55	GSE18229	Claudin	Basal	Metaplastic Carcinoma from MDACC	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC44K-H1-0465-Meta15	MDACC-Meta15	0	0	0	0		2	1	30	1	34	GSE18229	Claudin	Basal	Metaplastic Carcinoma from MDACC	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A9529-041C	BC00063	0		1	1	3	4					GSE18229	Claudin	Her2	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6730-735	BC00048	0		0	0	2	3	1	5	1	11	GSE18229	Claudin	Normal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1087-C-Na	UNC-040191B-core	0	0	0	0	3	2	1	15	1	15	GSE18229	Her2	Her2	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1177-C-Na	UNC-020297B	0	0	1	1	3	3	0	26	0	26	GSE18229	Her2	Her2	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1318-C	UNC-020306B	1	1	1	2	3	4	1	22	1	22	GSE18229	Her2	Her2	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A_C_0079	BC00036T	0	0	1	1	2	2	0	10	0	10	GSE18229	Her2	Her2	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6261-2980V2_Na	BC00036-Repeat1		0	1								GSE18229	Her2	Her2	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6433-2275_V2	UB60	0	0	1	1	3	2	0	20	0	20	GSE18229	Her2	Her2	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6433-2812_V2	PB455	0	0	1	1	2	3	0	9	0	9	GSE18229	Her2	Her2	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A7411-0114-C	PB376	0	0	0	0	3	2	0	15	0	15	GSE18229	Her2	Her2	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A9529-0044C	PB311	1	1	0	1	3	3	0	14	0	14	GSE18229	Her2	Her2	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A9529-0045C	PB314	0	0	1	1	3	3	0	21	0	21	GSE18229	Her2	Her2	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A9529-0064C	UB37	0	1	0	1	3	1	0	25	0	25	GSE18229	Her2	Her2	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1270-C	WU-04038-11728	1	1	1	1	2	2	0	62	0	62	GSE18229	Her2	Her2	"Tissue: Breast Tumor, Subtype: LumA"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1276-C	WU-01500-2231	1	0	0	0	3	1	0	70	0	70	GSE18229	Her2	Her2	"Tissue: Breast Tumor, Subtype: LumA"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1316-C	UNC-020155B	0			1	3	3	1	31	0	42	GSE18229	Her2	Her2	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1324-C	UNC-040269B	0			0	3	2	0	17	0	17	GSE18229	Her2	Her2	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6433-2611V2	BR00-0284	0	0	1	0	3	3	0	43	0	43	GSE18229	Her2	Her2	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6912-6958V2	BR94-1096	1	1		0	1	2	1	31	1	94	GSE18229	Her2	Her2	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6989-8227-V2	030222-Spinal-Met	1	1	0	1	2	2	1	1	1	44	GSE18229	Her2	Her2	Breast tumor metastasis to spinal cord	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A7411-0109-C	030521-BC-Brain-Met		0	1								GSE18229	Her2	Her2	Breast tumor metastasis to brain	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AG4110A_4260	BR94-187_Dup	1		0	1	2	4	1	1	1	23	GSE18229	Her2	Her2	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6260-731	BC00057-post-chemo	0	0	1	1	3	4	1	8	1	12	GSE18229	Her2	Her2	"Breast Tumor, chemotherapy treated"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A7871-2423V2	BC00063_Repeat1			1								GSE18229	Her2	Her2	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A2371V2	A8-Lung-Met		1	1								GSE18229	Her2	Her2	Autopsy patient #8 Lung metastasis from breast	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A4956V2_Na	A8-Caudaequina-Met	1	1	1	1	2	2	1	1	1	44	GSE18229	Her2	Her2	Autopsy patient #8 Caudaequina metastasis from breast	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6433-2601V2	BC00010-Repeat1		0	1								GSE18229	Her2	Her2	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6433-2987V2	BR00-0284-Int		0	1								GSE18229	Her2	Her2	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6730-647	BC00030-MET-post chemo	0		1	1	2	4	1	8	1	33	GSE18229	Her2	Her2	"Breast Tumor Metastasis, chemotherapy treated"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6912-6851V2	A4-LUL-Lung-Met			0								GSE18229	Her2	Her2	Autopsy patient #4 lung metastasis from breast foci B	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6912-6852V2	A4-LLL-Lung-Met	1		0	1	3	4	1	22	1	22	GSE18229	Her2	Her2	Autopsy patient #4 lung metastasis from breast foci A	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6912-6985V2	BR95-0152	1			0	3	4	1	26	0	101	GSE18229	Her2	Her2	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A7411-0110-C	030521-BC-Brain-Met-Int		0	1								GSE18229	Her2	Her2	Breast tumor metastasis to brain	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A9529-0040C_Na	BC00051	0	0	0	0	2	2	0	68	0	68	GSE18229	Her2	Her2	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A9529-0087C	020573-BC-Primary(paired-020577)	1		0	1	3	3	1	10	0	22	GSE18229	Her2	Her2	"Breast primary tumor from a patient with an associated brain metastases, which is 020577-BC-Brain-Met(=73)"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A9529-0088C	BC00055	0		1	1	2		1	12	1	31	GSE18229	Her2	Her2	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A9529-0089C	BC00071	0	0	1	1	2	2	1	16	1	47	GSE18229	Her2	Her2	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A9529-0090C	BC00074	0		1	1	2	2					GSE18229	Her2	Her2	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A9529-0091C	BC00097	0		1	1	3	2					GSE18229	Her2	Her2	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A9529-0092C	BR01-0123	0	0	0	1	2	3	1	31	0	41	GSE18229	Her2	Her2	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A9529-39C_Na	BC00010	0	0	1	1	2	3	1	16	1	16	GSE18229	Her2	Her2	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A9529-0051C	BR99-0348-GATA3	1	1	0	0	2	2	0	32	0	32	GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A9529-025C_Na	BR00-0387	1	1	0	1	2	4	1	6	0	51	GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-0762-C-Na	UNC-010224B	1	0	0	0	2	3	0	50	0	50	GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1091-Na	UNC-020464B-core	1	1	0	0	1	2	0	2	0	2	GSE18229	LumA	LumA	"Tissue: Breast Tumor, Subtype: LumA"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1124C	010353B-Genomic-Core	0	0	0	0	3	2	0	12	0	12	GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6261-1500V2	UB57	1	1	0	0	2	1	0	17	0	17	GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6433-2274_V2	UB45	1	1	0	1	2	2	0	21	0	21	GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6433-2600V2	BC00004-Repeat1		1	0								GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6433-2990V2	BR00-0587-GATA3	1	1	0	0	3	2	0	37	0	37	GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6433-3007_V2	UB21	1	1	0	0	1	1	0	30	0	30	GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6433-3011_V2	UB39	1	0	0	0	2	1	0	25	0	25	GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6912-6956V2	PB211	1			1		1	0	22	0	22	GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6989-8215-V2	PB379	1	1	0	1	3	2	1	15	0	17	GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6989-8226-V2	PB413	1		0	1	2	2	0	9	0	9	GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A7411-0082-C	BR99-0348-GATA3-Int		1	0								GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A7411-0120-C	UB55	1	1	0	0	1	1	0	22	0	22	GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A7411-0121-C	UB55-Int		1	0								GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A9529-0046C	UB58	1		0	1	2	1	0	19	0	19	GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A9529-0056C	PB255	1	1	0	1	3	2	0	4	0	4	GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A9529-0063C	PB370	1	1	0	1	3	2	0	20	0	20	GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A9529-0065C	UB61	1	0	1	1	2	2	0	19	0	19	GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A9529-30C_Na	BC00004	0	1	0	0	2	1	0	118	0	118	GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1267	WU-03853-8702	1	1	0	0	3	1	0	68	0	68	GSE18229	LumA	LumA	"Tissue: Breast Tumor, Subtype: LumA"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1275-C	WU-03780-9028	1	1	0	0	3	2	0	62	0	62	GSE18229	LumA	LumA	"Tissue: Breast Tumor, Subtype: LumA"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1278-C	WU-05009-4750	1	1	0	0	1	1	0	64	0	64	GSE18229	LumA	LumA	"Tissue: Breast Tumor, Subtype: LumA"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1282-C	WU-00777-4362	1	1	0	1	2	3	0	100	0	100	GSE18229	LumA	LumA	"Tissue: Breast Tumor, Subtype: LumA"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1284-C	WU-03843-8677	1	1	0	0	2	4	0	69	0	69	GSE18229	LumA	LumA	"Tissue: Breast Tumor, Subtype: LumA"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1285-C	WU-05561-11732	1	1	0	1	2	1	0	57	0	57	GSE18229	LumA	LumA	"Tissue: Breast Tumor, Subtype: LumA"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1301-C	WU-05144-4628	1	1	0	1	3	2	0	63	0	63	GSE18229	LumA	LumA	"Tissue: Breast Tumor, Subtype: LumA"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1447-C	WU-03700-9024	1	1	0	0	3	1	0	73	0	73	GSE18229	LumA	LumA	"Tissue: Breast Tumor, Subtype: LumA"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1451-C	WU-01700-2855	1	1		0	2	1	0	71	0	71	GSE18229	LumA	LumA	"Tissue: Breast Tumor, Subtype: LumA"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1473-C	WU-04226-14539	1	1	0	1	3	2	0	61	0	61	GSE18229	LumA	LumA	"Tissue: Breast Tumor, Subtype: LumA"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1492C	WU-02689-15567	1	1	0	0	2	1	0	76	0	76	GSE18229	LumA	LumA	"Tissue: Breast Tumor, Subtype: LumA"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1494C	WU-03483-8696	1	0	0	0	2	1	0	54	0	54	GSE18229	LumA	LumA	"Tissue: Breast Tumor, Subtype: LumA"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1508-C	WU-00538-2858			0	0		1	0	66	0	66	GSE18229	LumA	LumA	"Tissue: Breast Tumor, Subtype: LumA"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1522-C	WU-02181-9403	1	0	0	0	1	2	0	81	0	81	GSE18229	LumA	LumA	"Tissue: Breast Tumor, Subtype: LumA"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1523-C	WU-07453-14263	1	0	0	0	3	3	0	57	0	57	GSE18229	LumA	LumA	"Tissue: Breast Tumor, Subtype: LumA"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A9529-0059C	PB277	1	1	0	1	3	2	0	12	0	12	GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6261-1499V2	UB56	1	1	0	1	2	1	0	9	0	9	GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6433-2273_V2	UB44	1	1	0	1	2	2	0	24	0	24	GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6433-2978_V2	PB479	1		0	1	3	2					GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A7411-0108-C	UB69	1	0	0	0	2	1	0	13	0	13	GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A7411-0113-C	PB441	1	1	0	0	2	1	0	9	0	9	GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A7411-0118-C	UB38	1	1	0	0	1	1	0	20	0	20	GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A9529-0043C	PB284	1		0	0	1	1	0	1	0	1	GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1305-C	WU-05094-4757	1	1	0	1	1	1	0	60	0	60	GSE18229	LumA	LumA	"Tissue: Breast Tumor, Subtype: LumA"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1499C	WU-07791-15573	1	1	0	0	2	1	0	53	0	53	GSE18229	LumA	LumA	"Tissue: Breast Tumor, Subtype: LumA"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1507-C	WU-01520-2706	1	1	0	1	2	2	0	77	0	77	GSE18229	LumA	LumA	"Tissue: Breast Tumor, Subtype: LumA"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1518-C	WU-06545-4772	1	1	0	0	3	3	0	49	0	49	GSE18229	LumA	LumA	"Tissue: Breast Tumor, Subtype: LumA"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1566C	WU-07805-15726	1	1	0	1	3	2	0	58	0	58	GSE18229	LumA	LumA	"Tissue: Breast Tumor, Subtype: LumA"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+A44K10829-1192	9830-030118B	1	0	0	0	1	3	1	14	1	14	GSE18229	LumA	LumA	total RNA	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+A44K10829-1281	9830-030584B	1	1	0	1		1	0	21	0	21	GSE18229	LumA	LumA	total RNA	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A5365-900	030064-BC-Brain-Met	1	0	0	1	2	1	1	51	0	64	GSE18229	LumA	LumA	Breast tumor metastasis to brain	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6433-2988V2	BR00-0504	1	1	0	1	1	2	0	39	0	39	GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6912-6957V2	BR94-1083	0	1	0	1	3	1	1	23	1	47	GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6912-6987V2	BR96-0014	1		0	1	1	4	0	96	0	96	GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A9529-0093C	BR01-0246	1	1	0	1	2	2	0	31	0	31	GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-0764-C-Na	UNC-010355B	0	0	0	0	1	1	0	12	0	12	GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-0933-C	9830-020461B	1	1	1	0	3	2	0	23	0	23	GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-0995-C	9830-000094B	1	1	0	0	2	1	0	54	0	54	GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-0998-C	9830-000424B	1	1	1	0	2	1	0	38	0	38	GSE18229	LumA	LumA	"Breast Tumor, tamoxifen-treated patient"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1000-C	9830-000471B	1	0	0	0		2	1	46	0	47	GSE18229	LumA	LumA	"Breast Tumor, tamoxifen-treated patient"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1010-C	9830-020185B	1	0	0	1	1	3	0	26	0	26	GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1012-C	9830-000060B	1	0	0	0	2	2	0	53	0	53	GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1016-C	9830-010255B	0	0	1	0	3	2	0	35	0	35	GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1019-C	9830-020025B	1	1	0	0	1	2	0	27	0	27	GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1235-C	UNC-040134B	1	1	0	0	2	2	0	20	0	20	GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1236-C	UNC-020320B	1	1	0	0	2	3	0	41	0	41	GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1237-C	UNC-020428B	1	1	0	1	1	2	0	22	0	22	GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6433-2598V2	BR00-0344-Repeat1		0	0								GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6433-2597V2	BR00-0387-Repeat1		1	0								GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6730-644	BC00014-Repeat1		0	0								GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A7411-0107-C	UB61-Int		0	1								GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A7411-0116-C	PB475	1	1	0	0	2	2	0	2	0	2	GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A9529-0003C	PB158	1			0	3	3	0	30	0	30	GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A9529-0045Na_C	BC00014	0	0	0	1	3	4	1	18	1	23	GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A9529-022-C	BC00066	0	1	1	1	3	3	1	18	1	18	GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-0792-C	BC00011	1	0	0	1		2	0	105	0	105	GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-0793-C	BC00040	1	0	0	1	3	3	1	59	1	62	GSE18229	LumA	LumA	"Breast Tumor, tamoxifen-treated patient"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-0898B-C	9819-000129B	1	1	0	0	2	2	0	65	0	65	GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-0915-C	BC00035											GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-0919-C	BC00042	1	1	0	1	2	2	1	14	0	47	GSE18229	LumA	LumA	"Breast Tumor, tamoxifen-treated patient"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-0920-C	BC00072	1	1	0	1	2	2	1	46	0	70	GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-0935-C	9830-030446B	1	1	0	0	2	2	0	12	0	12	GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-0938-C	9830-010461B	1	1	0	1	1	2	0	32	0	32	GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-0940-C	9830-030562B	1	1	0	1	2	2	0	54	0	54	GSE18229	LumA	LumA	"Breast Tumor, tamoxifen-treated patient"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A-V2-1313	BR-02-7054				0	1	1					GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A-V2-1314	BR-03-7243				1		2					GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+HIA-7871-V2-2316	BR-02-7048				1		1					GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+HIA-NA-V2-4556	BR-02-7050	1	1	0	1	2	2					GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-0922-C	BC00093-T	1	1	1	1	3	2	1	8			GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6261-2139V2_Na	Normal-Breast-5											GSE18229	LumA	LumA	Normal breast tissue from an individual	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6433-2758_V2	UB79	1	0	0	1	2	2	0	2	0	2	GSE18229	LumA	LumA	"Breast Tumor, with paired metastasis sample"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A9529-0048C	BR97-1045	1	1	0	1	2	2	0	31	0	31	GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-0796-C	BC00067	1	1	0	1	2	2	0	28	0	28	GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1573-C	WashU-15720-repeat	1	1	0	0	3	1	0	69	0	69	GSE18229	LumA	LumA	"Tissue: Breast Tumor, Subtype: LumA"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC44K-H1-0556	UNC00-0164B-44K	1	1	0	0	1	3	0	73	0	73	GSE18229	LumA	LumA	total RNA	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+UNC44K-0101-V	UNC-960028B	1			1	2	3	0	97	0	97	GSE18229	LumA	LumA	total RNA	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+UNC44K-0116-V	UNC-010304B	1		0	1		2	0	92	0	92	GSE18229	LumA	LumA	total RNA	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1086-C-Na	UNC-040227B-core	1			0	3	2	0	18	0	18	GSE18229	LumA	LumA	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1015-C	9830-020416B	1	0	1	0	2	1	0	5	0	5	GSE18229	LumB	LumB	"Breast Tumor, tamoxifen-treated patient"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-0918-C	BC00033-T	1	1	0	1	3	2	1	21	1	46	GSE18229	LumB	LumB	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A9529-0001C	030432-BC-Brain-Met-Int		0	0								GSE18229	LumB	LumB	Breast tumor metastasis to brain	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1009-C	9830-020072B	1	1	0	0	2	2	0	23	0	23	GSE18229	LumB	LumB	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1088-C-Na	UNC-040114B-core	1	1	0	0	2	2	0	16	0	16	GSE18229	LumB	LumB	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1125C	010456B-Genomic-Core	1	0	0	0	3	2	1	38	0	48	GSE18229	LumB	LumB	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1319-C	UNC-020439B	1	0	0	1	3	4	1	16	1	16	GSE18229	LumB	LumB	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1323-C	UNC-040182B	1	1	1	1	3	2	0	16	0	16	GSE18229	LumB	LumB	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6989-8211-V2	UB66	1	0	0	0	1	2	0	9	0	9	GSE18229	LumB	LumB	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6433-2272V2	UB43	1	1	0	1	3	1	0	19	0	19	GSE18229	LumB	LumB	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A9529-0041C_Na	BC00034	0	0	0	0	2	1	0	81	0	81	GSE18229	LumB	LumB	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A9529-042C	030432-BC-Brain-Met		0									GSE18229	LumB	LumB	Breast tumor metastasis to brain	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1470-C	WU-02799-8688	1	1	0	0	2	1	0	61	0	61	GSE18229	LumB	LumB	"Tissue: Breast Tumor, Subtype: LumA"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1490C	WU-01897-2850	1	1	0	0	3	1	0	64	0	64	GSE18229	LumB	LumB	"Tissue: Breast Tumor, Subtype: LumA"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1517-C	WU-01456-3606	1	1	0	1	3	2	0	73	0	73	GSE18229	LumB	LumB	"Tissue: Breast Tumor, Subtype: LumA"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A7411-0115-C	PB432	1			1	3	2	1	15	0	15	GSE18229	LumB	LumB	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1462-C	WU-04532-14540	1	0	0	1	3	2	0	53	0	53	GSE18229	LumB	LumB	"Tissue: Breast Tumor, Subtype: LumA"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+A44K10829-1283	9830-040072B	1	1	0	0	3	2	0	25	0	25	GSE18229	LumB	LumB	total RNA	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+A44K11240-2741	9830-030399B	1	1	0	0	2	2	0	32	0	32	GSE18229	LumB	LumB	total RNA	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A_013Na_C	BR00-0365	1	1	0	1	3	4	0	22	0	22	GSE18229	LumB	LumB	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6433-2992V2	BR01-0125	1	1	0	1	2	3	0	33	0	33	GSE18229	LumB	LumB	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6730-744	030311-BC-Brain-Met	1	0	0	0	3	2	1	28	0	51	GSE18229	LumB	LumB	Breast tumor metastasis to brain	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A7411-0066-C	BR99-0207-GATA3	1	0	0	1	2	2	0	57	0	57	GSE18229	LumB	LumB	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A9529-0047C	BR01-0349	1	0	1	1	3	3	1	3	1	24	GSE18229	LumB	LumB	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A9529-0049C	BR98-0161	0	0	0	1	2	2	1	36	1	60	GSE18229	LumB	LumB	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A9529-028C_Na	BR00-0344	1	0	0	1	3	2	1	7	1	30	GSE18229	LumB	LumB	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-0997-C	9830-000248B	1	1	1	1	3	1	0	48	0	48	GSE18229	LumB	LumB	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1004-C	9830-000517B	0	1	1	0		2	0	42	0	42	GSE18229	LumB	LumB	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1011-C	9830-020310B	1	1	1	0	2	3	0	24	0	24	GSE18229	LumB	LumB	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1014-C	9830-020340B	1	1	1	1	2	3	0	23	0	23	GSE18229	LumB	LumB	"Breast Tumor, tamoxifen-treated patient"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1041-C010142	9819-010142B	1	1	1	0	3	3	0	49	0	49	GSE18229	LumB	LumB	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6149-698	PB432-repeat1			1								GSE18229	LumB	LumB	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A5949-019	020577-BC-Brain-Met(=73)			0								GSE18229	LumB	LumB	"Breast tumor metastasis to the brain associated with a primary tumor, which is 020573-BC-Primary"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A012Na_C	BR99-0207-GATA3-Int		0	0								GSE18229	LumB	LumB	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6912-6984V2	BR95-0035	0	0	0	1	3	2	0	106	0	106	GSE18229	LumB	LumB	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A9529-0057C	PB258	1		1	1	2	2					GSE18229	LumB	LumB	"Breast Tumor, with paired metastasis sample"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-0788-C	BC00016-T	1	0	0	1		2	1	17	1	56	GSE18229	LumB	LumB	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-0794B-C	BC00061	1	1	0	1	2	3	0	24	0	24	GSE18229	LumB	LumB	"Breast Tumor, tamoxifen-treated patient"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-0912-C	9819-010372B	1	1	0	1	3	4	0	41	0	41	GSE18229	LumB	LumB	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+HIA-7601-V2-1007	BR-03-7268	1	0	0	0	3	2					GSE18229	LumB	LumB	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6261-1488V2	BR95-0017	1	0		1	3	2	1	36	1	64	GSE18229	LumB	LumB	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6433-2276_V2	UB78	1	0	0	1							GSE18229	LumB	LumB	"Breast Tumor, with paired metastasis sample"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6433-2757_V2	UB78-LN-Met		0	0								GSE18229	LumB	LumB	"Breast Tumor lymph node metastasis, with paired primary tumor"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6433-2759_V2	UB79-LN-Met		0	0								GSE18229	LumB	LumB	"Breast Tumor lymph node metastasis, with paired primary tumor"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6433-2809_V2	PB388	1	1	0	0	3	2	0	16	0	16	GSE18229	LumB	LumB	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6912-6986V2	BR95-0184	1	1		0	3	2	0	96	0	96	GSE18229	LumB	LumB	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6989-8228-V2	PB407	1		0	1	3	3	1	9	0	17	GSE18229	LumB	LumB	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A7871-2410V2	A6-Liver-Met	1	0	0	1	3	2	1	1	1	16	GSE18229	LumB	LumB	Autopsy patient #6 metastasis from breast to Liver	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A7871-2426V2	PB326-LN-Met				1		1					GSE18229	LumB	LumB	Breast Tumor lymph node metastasis	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A9529-0055C	PB249	1	1	1	1	3	1	0	8	0	8	GSE18229	LumB	LumB	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A9529-0060C	PB293	1	1	0	0	2	2	0	11	0	11	GSE18229	LumB	LumB	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A9529-0062C	PB307	1	1	0	0	3	3	0	9	0	9	GSE18229	LumB	LumB	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-0789-C	BC00017-T	1	0	0	1		3	1	2	1	8	GSE18229	LumB	LumB	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-0921-C	BC00087-T	1	1	1	0	2	2					GSE18229	LumB	LumB	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-0943-C	BC00079	1	0	0	0	3	2	0	6	1	6	GSE18229	LumB	LumB	"Breast Tumor, tamoxifen-treated patient"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+HIA-7871-V2-2253	BR-99-0622	0	0	0	1	3	2	1	22	1	34	GSE18229	LumB	LumB	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+HIA-7871-V2-2254	BR-02-7043	1	1	0	0	3	2					GSE18229	LumB	LumB	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC44K-H1-0410	UNC99-0158B-44K	1	1	0	0	2	2	0	47	0	47	GSE18229	LumB	LumB	total RNA	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC44K-H1-0563	UNC99-0216B-44K	1	1	1	0	2	2	0	58	0	58	GSE18229	LumB	LumB	total RNA	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC44K-H1-0564	UNC99-0363B-44K	1	1	0	1	1	2	1	76	0	94	GSE18229	LumB	LumB	total RNA	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1089-C-Na	UNC-030429B-core	1			1	3	4	1	36	0	173	GSE18229	LumB	LumB	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1123C	010348B-Genomic-Core	1			1	3	3	1	4	1	25	GSE18229	LumB	LumB	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-0765-C-Na	UNC-010509B	1	1	1	0	2	2	0	46	0	46	GSE18229	Normal	Normal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-0932-C	9830-010042B	0	0	1	0	3	1	0	39	0	39	GSE18229	Normal	Normal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A9529-0052C	Normal-Breast-2											GSE18229	Normal	Normal	Normal breast tissue from an individual	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A9529-0053C	Normal-Breast-7											GSE18229	Normal	Normal	Normal breast tissue from an individual	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A9529-0095C	Normal-Breast-3											GSE18229	Normal	Normal	Normal breast tissue from an individual	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+A44K11240-2761	9830-030363B	0	0	1	1		3	0	30	0	30	GSE18229	Normal	Normal	total RNA	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1020-C	9830-000030B	1	1	0	1	1	3	0	56	0	56	GSE18229	Normal	Normal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6149-098	PB362	1	0	0	0	3	2	0	16	0	16	GSE18229	Normal	Normal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6149-701S02	Normal-Breast-8											GSE18229	Normal	Normal	Normal breast tissue from an individual	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6261-1499V2_Na	Normal-Breast-9											GSE18229	Normal	Normal	"Normal breast tissue from Strategene, pool of samples"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6261-2138V2_Na	Normal-Breast-4											GSE18229	Normal	Normal	Normal breast tissue from an individual	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6261-2140V2_Na	Normal-Breast-6											GSE18229	Normal	Normal	Normal breast tissue from an individual	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6261-2607V2	BC00052-post-chemo-Int		0	1								GSE18229	Normal	Normal	"Breast Tumor, chemotherapy treated"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6261-2992V2_Na	Normal-Breast-1											GSE18229	Normal	Normal	"Normal breast tissue from BD, pool of samples"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A6433-2608V2	BC00053	0	0	1	1	3	2	1	27	1	28	GSE18229	Normal	Normal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1A9529-040C	BC00052-post-chemo	0	0	1	1	3	2	1	14	1	18	GSE18229	Normal	Normal	"Breast Tumor, chemotherapy treated"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1298-Na	UNC-06-0134NB-Na											GSE18229	Normal	Normal	"Tissue: Normal Breast, Subtype: Normal-like"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1299-Na	UNC-06-0035NB-Na											GSE18229	Normal	Normal	"Tissue: Normal Breast, Subtype: Normal-like"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1300-Na	UNC-06-0277NB-Na											GSE18229	Normal	Normal	"Tissue: Normal Breast, Subtype: Normal-like"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1526-C	normalbreast-BR00-0572A											GSE18229	Normal	Normal	"Tissue: Breast Tumor, Subtype: Normal-like"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1527-C	normalbreast-BR00-0587A											GSE18229	Normal	Normal	"Tissue: Breast Tumor, Subtype: Normal-like"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1529-C	normalbreast-BR06-0222A											GSE18229	Normal	Normal	"Tissue: Breast Tumor, Subtype: Normal-like"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1693-C	normalbreast-BR06-0182A											GSE18229	Normal	Normal	"Tissue: Normal Breast, Subtype: Normal-like"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1694-C	normalbreast-BR05-0865A											GSE18229	Normal	Normal	"Tissue: Normal Breast, Subtype: Normal-like"	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC44K-H1-0468-TN25	MDACC-TN25	0	0	0	1	2	2	0	12	0	12	GSE18229	Normal	Normal	Metaplastic Carcinoma from MDACC	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
+H1AUNC-1238-C	UNC-020568B	1			1	3	2	1	2	0	12	GSE18229	Normal	Normal	Breast Tumor	Stratagene Human Universal Reference that contained 1/10 added MCF7 and ME16C RNAs
